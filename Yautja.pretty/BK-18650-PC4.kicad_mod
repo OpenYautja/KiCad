@@ -1,0 +1,281 @@
+(footprint "BK-18650-PC4"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "18650 Holder - Double")
+	(tags "battery,lipo")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d1abb659-5a44-45ac-a233-e590ce66d9bf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "BK-18650-PC4"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "6c2cddd8-e893-4b39-8c48-53796522c062")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2ef87276-ffe2-4011-b795-ddee9090d558")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.digikey.cz/en/products/detail/mpd-memory-protection-devices/BK-18650-PC4/2330513"
+		(at 0 7 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1d350877-fdd5-47e9-8b5e-bf5513f6ddc1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "baabf257-7c7c-4e80-acdc-61cf66ae29d0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DigiKey" "BK-18650-PC4-ND"
+		(at 0 5 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e74a989b-19e5-45aa-bca0-0580d0d41349")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 0 -38.5)
+		(end 0 38.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "230d04b8-454a-4f80-8396-0195aec93a35")
+	)
+	(fp_rect
+		(start -20 -38.5)
+		(end 20 38.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "ff0589eb-07cc-49cf-8680-5b5df77a223f")
+	)
+	(fp_circle
+		(center -9.75 -27.81)
+		(end -7.25 -27.81)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "217810e7-8a3d-45a5-97e3-49362969af83")
+	)
+	(fp_circle
+		(center -9.75 27.81)
+		(end -7.25 27.81)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "a9996258-8ae9-4dd4-83a6-70fc6d6b9da1")
+	)
+	(fp_circle
+		(center 9.75 -27.81)
+		(end 12.25 -27.81)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "b7bb7ae4-25c2-40fe-aa74-7c8a0209b889")
+	)
+	(fp_circle
+		(center 9.75 27.81)
+		(end 12.25 27.81)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "a1357298-55f9-4435-8cd0-6a23f849684b")
+	)
+	(fp_rect
+		(start -20.32 -38.862)
+		(end 20.32 38.735)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "a59d12cb-9e4b-4c8c-ac0a-b0a46ea42a90")
+	)
+	(fp_text user "+"
+		(at 10 -33 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "14449acf-4cb4-46b1-afaa-939de4303818")
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.5)
+			)
+		)
+	)
+	(fp_text user "-"
+		(at 9.779 33 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "8742d840-4699-40fc-a5e6-87b6d62486d3")
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.5)
+			)
+		)
+	)
+	(fp_text user "-"
+		(at -10 33 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "aa9102c9-5bc7-4bca-880d-b3ccd93a670a")
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.5)
+			)
+		)
+	)
+	(fp_text user "+"
+		(at -10 -33 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b929ac55-1101-4d60-a5e6-fc079b27285f")
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.5)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 3 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "604fe5b8-d9d0-4cf9-a363-22f49617a6fe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at -9.75 -27.81)
+		(size 3.2 3.2)
+		(drill 3)
+		(layers "*.Mask")
+		(zone_connect 0)
+		(uuid "9063c043-1739-4c0b-bbeb-200036165736")
+	)
+	(pad "" np_thru_hole circle
+		(at -9.75 27.81)
+		(size 3.2 3.2)
+		(drill 3)
+		(layers "*.Mask")
+		(zone_connect 0)
+		(uuid "ced08d6c-4406-43c6-b5fe-d130166aa225")
+	)
+	(pad "" np_thru_hole circle
+		(at 9.75 -27.81)
+		(size 3.2 3.2)
+		(drill 3)
+		(layers "*.Mask")
+		(zone_connect 0)
+		(uuid "bcc10a9f-e08d-4c93-849f-ca430665a6c7")
+	)
+	(pad "" np_thru_hole circle
+		(at 9.75 27.81)
+		(size 3.2 3.2)
+		(drill 3)
+		(layers "*.Mask")
+		(zone_connect 0)
+		(uuid "6d95cbe6-791e-46b8-a6c9-2cbbed77eb13")
+	)
+	(pad "1" thru_hole circle
+		(at -9.65 -36.45)
+		(size 2.5 2.5)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "24c54718-d707-417a-9ef8-5d29ce63c4a1")
+	)
+	(pad "2" thru_hole circle
+		(at -9.65 36.45)
+		(size 2.5 2.5)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c445af4b-c2e9-495f-8858-f385c9eadd7a")
+	)
+	(pad "3" thru_hole circle
+		(at 9.65 -36.45)
+		(size 2.5 2.5)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2dc026fa-c6db-4d41-bc27-feb3626dc9da")
+	)
+	(pad "4" thru_hole circle
+		(at 9.65 36.45)
+		(size 2.5 2.5)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1184b23f-6c8f-4446-ab79-eac648381272")
+	)
+)
