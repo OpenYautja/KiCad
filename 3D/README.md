@@ -17,3 +17,4 @@
 | `BM05B-SRSS-TB.STEP`                                         | https://grabcad.com/library/jst-sh-smd-connectors-1/details?folder_id=3903826                      |
 | `EVQP7L01P--3DModel-STEP-269445.STEP`                        | https://www.snapeda.com/parts/EVQ-P7L01P/Panasonic/view-part/                                      |
 | `Waveshare 2.13 (D) E-ink - *.stp`                           | https://grabcad.com/library/2-13in-e-ink-display-black-flexible-1/details                          |
+| `1_4-20 X .5 BRASS HEAT SET INSERT.STEP`                     | https://grabcad.com/library/1-4-20-x-1-2-brass-heat-set-insert-1                                   |

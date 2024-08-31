@@ -151,7 +151,7 @@
 			(type default)
 		)
 		(fill none)
-		(layer "Cmts.User")
+		(layer "Dwgs.User")
 		(uuid "3cea78e2-8cf6-48d9-b804-aa91dcda6c25")
 	)
 	(fp_rect
@@ -162,7 +162,7 @@
 			(type default)
 		)
 		(fill none)
-		(layer "Cmts.User")
+		(layer "Dwgs.User")
 		(uuid "0d29988e-a21f-4665-b950-798888882480")
 	)
 	(fp_rect
@@ -173,7 +173,7 @@
 			(type default)
 		)
 		(fill none)
-		(layer "Cmts.User")
+		(layer "Dwgs.User")
 		(uuid "ef393064-32dd-41aa-a3ce-c23667d099ab")
 	)
 	(fp_rect
@@ -184,7 +184,7 @@
 			(type default)
 		)
 		(fill none)
-		(layer "Cmts.User")
+		(layer "Dwgs.User")
 		(uuid "91e47e21-67c9-418d-826f-d40183f6d71b")
 	)
 	(fp_rect
