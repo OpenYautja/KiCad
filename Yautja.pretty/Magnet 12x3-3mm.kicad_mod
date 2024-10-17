@@ -1,0 +1,148 @@
+(footprint "Magnet 12x3-3mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -2.794 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "37152fe5-b3da-4a1c-94c6-23f7d5f03dea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Magnet 12x3-3mm"
+		(at 0 -8.636 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "05000cf7-7d2b-4880-a818-669b83085418")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1b107997-1413-4446-ac7c-10dc46cd417d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a9f28c73-d690-46a6-aa95-31bcf8441ea6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "230f1def-ee6d-42ab-845f-af7c901240dd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_circle
+		(center 0 0)
+		(end 6 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "518b17be-d544-45ca-9b16-4ed7d04ae48e")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 6.477 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "1658d448-d7d5-4ee8-9b24-292575591053")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -7.112 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "972f93d2-1efe-44db-899f-47b21f7fb85c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 3.5 3.5)
+		(drill 3.5)
+		(layers "*.Mask")
+		(uuid "a639d382-30c1-4dd8-8742-2f026183d703")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.Cu")
+		(uuid "f2d2fb49-72a4-4c48-9fa0-508c83ca9bff")
+		(hatch edge 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.254)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints not_allowed)
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+		)
+		(polygon
+			(pts
+				(xy 5.8928 -2.6416) (xy 6.477 0.009018) (xy 5.8928 2.6416) (xy 4.572 4.572) (xy 2.6416 5.8928) (xy -0.003757 6.477)
+				(xy -2.6416 5.8928) (xy -4.572 4.572) (xy -5.8928 2.6416) (xy -6.477 0.009018) (xy -5.8928 -2.6416)
+				(xy -4.572 -4.572) (xy -2.5908 -5.8928) (xy 0 -6.477) (xy 2.6416 -5.8928) (xy 4.572 -4.572)
+			)
+		)
+	)
+	(model "${KICAD_YAUTJA_LIB}/3D/Magnet 12x3-3mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
