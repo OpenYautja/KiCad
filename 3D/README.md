@@ -20,3 +20,5 @@
 | `1_4-20 X .5 BRASS HEAT SET INSERT.STEP`                     | https://grabcad.com/library/1-4-20-x-1-2-brass-heat-set-insert-1                                    |
 | `16850_Battery_1042P.step`                                   | https://www.snapeda.com/parts/1042P/Keystone%20Electronics/view-part/                               |
 | `CAP_FC-105_KEM.step`                                        | https://app.ultralibrarian.com/details/44c5a6eb-3aad-11ed-b159-0a34d6323d74/Kemet/FC0H105ZFTBR44-SS |
+| `B4B-PH-SM4-TB.step`                                         | https://www.snapeda.com/parts/B4B-PH-SM4-TB/JST/view-part/                                          |
+| `B5B-PH-SM4-TB.STEP`                                         | https://www.snapeda.com/parts/B5B-PH-SM4-TB/JST/view-part/                                          |
