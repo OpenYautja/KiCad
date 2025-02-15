@@ -22,3 +22,5 @@
 | `CAP_FC-105_KEM.step`                                        | https://app.ultralibrarian.com/details/44c5a6eb-3aad-11ed-b159-0a34d6323d74/Kemet/FC0H105ZFTBR44-SS |
 | `B4B-PH-SM4-TB.step`                                         | https://www.snapeda.com/parts/B4B-PH-SM4-TB/JST/view-part/                                          |
 | `B5B-PH-SM4-TB.STEP`                                         | https://www.snapeda.com/parts/B5B-PH-SM4-TB/JST/view-part/                                          |
+| `Magnet_10x2.step`                                           | Custom                                                                                              |
+| `B2B-PH-SM4-TB.step`                                         | https://www.snapeda.com/parts/B2B-PH-SM4-TB/JST/view-part/                                          |
