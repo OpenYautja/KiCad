@@ -24,3 +24,4 @@
 | `B5B-PH-SM4-TB.STEP`                                         | https://www.snapeda.com/parts/B5B-PH-SM4-TB/JST/view-part/                                          |
 | `Magnet_10x2.step`                                           | Custom                                                                                              |
 | `B2B-PH-SM4-TB.step`                                         | https://www.snapeda.com/parts/B2B-PH-SM4-TB/JST/view-part/                                          |
+| `sop8.STEP`                                                  | https://grabcad.com/library/sop8-1                                                                  |
